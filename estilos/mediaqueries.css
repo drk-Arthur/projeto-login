@@ -28,6 +28,7 @@
 
     section#login {
         width: 950px;
+        height: 350px;
     }
 
     section#login > div#imagem {
